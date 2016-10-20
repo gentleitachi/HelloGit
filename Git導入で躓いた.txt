@@ -4,6 +4,7 @@
 
 #region ■新規作成
 
+
     【リモート】
     =================================================
         1）       見たまんまですよ！
@@ -38,17 +39,24 @@
     5）ローカルリポジトリのファイルをGitHubのリポジトリに送信
        $ git push origin master
 
+
 #endregion
 
 #region ■変更・更新
+
+
     おいおい
+
+
 #endregion
 
 #region ■Sublime Text 3 設定
+
 
     1）Git(デスクトップアプリではない)をOSにまずインストール (←これで30分ネットサーフィン 罪深い)
     2）お約束の環境変数にgit.exeのディレクトリをセット
     3）Package ControlからGitをインストール
     4）ctrl+shift+pのコマンドラインからadd→commit→pushで送信なりなんなりできる
+
 
 #endregion
