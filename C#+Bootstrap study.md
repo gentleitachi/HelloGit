@@ -73,7 +73,7 @@ RouteConfig.csで定義されている
 
 3. 部分ビュー
 ・ヘッダー、フッターの定義は **\_Header.cshtml**、**\_Footer.cshtml**  
-・レイアウトファイルのbodyタグ内に@Html.Partial("_Header")、@Html.Partial("_Footer")を追加  
+・レイアウトファイルのbodyタグ内に@Html.Partial("\_Header")、@Html.Partial("\_Footer")を追加  
 
 ##### Razor
 ・aspxに代わる新しいビューエンジン  
