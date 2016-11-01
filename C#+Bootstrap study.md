@@ -93,3 +93,6 @@ RouteConfig.csで定義されている
 [ASP.NET MVC5 をざっとペロる](http://qiita.com/Chrowa3/items/0a3a1043b15d20a29ff8)  
 [空のプロジェクトから始める ASP.NET MVC 5](https://garafu.blogspot.jp/2015/05/aspnet-mvc-5.html)  
 [ASP.NET MVC 4 ことはじめ（４）ViewBagとViewData](http://architect-wat.hatenablog.jp/entry/20130417/1366204348)  
+
+##### 気になってるURL
+[ASP.NET MVCを勉強するときはまずここ！](http://matome.naver.jp/odai/2140474256719291501)  
