@@ -96,3 +96,6 @@ RouteConfig.csで定義されている
 
 ##### 気になってるURL
 [ASP.NET MVCを勉強するときはまずここ！](http://matome.naver.jp/odai/2140474256719291501)  
+
+##### そもそものBootstrap入門
+[Webデザインの知識がなくてもOK！Bootstrapの使い方【入門者向け】](http://techacademy.jp/magazine/6270)
